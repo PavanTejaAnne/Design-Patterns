@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AddCheeseBurger
+comment1.params=yourOldBurger
+comment1.target=AddCheeseBurger(Burger)
+comment2.params=yourOldBurger\ yourCheeseList
+comment2.target=AddCheeseBurger(Burger,\ java.util.ArrayList)
+comment3.params=
+comment3.target=java.lang.String\ orderDescription()
+comment4.params=
+comment4.target=double\ calPrice()
+numComments=5
